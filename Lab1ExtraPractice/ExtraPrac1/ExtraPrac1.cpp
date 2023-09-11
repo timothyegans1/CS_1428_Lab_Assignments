@@ -55,7 +55,7 @@ int main() {
 
 
 
-	cout << "The cost of wrapping only the wall is $" << endl;
+	cout << "The cost of wrapping only the wall is  $" << endl;
 
 	return 0;
 }
