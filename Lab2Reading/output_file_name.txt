@@ -1,0 +1,3 @@
+Timothy Egans
+22
+You can also output literals to a text file 1337

@@ -27,8 +27,9 @@ using namespace std;
 int main() {
 
     // ADD HERE declare variables
-
-
+    string first_Name;
+    string last_Name;
+    double year;
 
     // declare input file stream variable and open file
 
@@ -63,7 +64,9 @@ int main() {
     fout.open("121_gigawatts.txt");
 
     // ADD HERE write your code here
-
+    fin >> first_Name >> last_Name >> year;
+    fout << first_Name << " " << last_Name << " " << year + 60 << endl;
+    cout << "Data was copied successfully to 121_gigawatts.txt" << endl;
 
 
     // closing files
