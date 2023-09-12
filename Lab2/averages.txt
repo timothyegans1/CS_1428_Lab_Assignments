@@ -1,0 +1,9 @@
+Sale Period    Version        Average
+Q1             Iphone11       4233.33
+
+Q2             Iphone10       1933.33
+
+Q3             Iphone9        2300
+
+Q4             Iphone8        1500
+
